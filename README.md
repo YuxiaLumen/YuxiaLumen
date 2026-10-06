@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm YuxiaLumen
 
 ### 💻 About Me
 * 🔭 **Focus Areas:** Systems Programming, Backend Architecture, and High-Performance Distributed Systems.
@@ -37,7 +37,3 @@
 | **[sys-monitor](#)** | Lightweight Linux system metrics monitor and logger. | `Linux API` `Shell` |
 
 ---
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=your-username&color=blueviolet&style=flat-square" alt="Visitors" />
-</p>
